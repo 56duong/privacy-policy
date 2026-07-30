@@ -1,4 +1,3 @@
-```markdown
 # Privacy Policy
 
 **Effective Date:** July 30, 2026
@@ -38,4 +37,3 @@ This Privacy Policy may be updated from time to time. Any changes will be publis
 ## Contact
 
 If you have any questions about this Privacy Policy, please contact the developer through the project's GitHub repository or the Chrome Web Store support page.
-```
